@@ -2,7 +2,6 @@
 <!--Estou informando alguns botoes com dados da Faculdade curso e professor-->
 ![GitHub last commit](https://img.shields.io/badge/Faculdade-Facimp-blue?style=) ![GitHub last commit](https://img.shields.io/badge/Nucleo-Tecnologia-blue?style=)
 ![GitHub last commit](https://img.shields.io/badge/Curso-Admin_de_Redes-red?style=) [![GitHub last commit](https://img.shields.io/badge/Professor-Paulo_Henrique_PH-red?style=&logo=Github&link=https://https://github.com/agenteph/)](https://github.com/agenteph)
-
 ### Sobre Mim
 Eu sou Adm de Redes{ Windows e Linux} Instrutor Tecnico e Estudante de Tecnologia 
 <!--Estou informando alguns botoes midias sociais-->
@@ -18,7 +17,6 @@ Eu sou Adm de Redes{ Windows e Linux} Instrutor Tecnico e Estudante de Tecnologi
 [![GitHub last commit](https://img.shields.io/badge/Youtube-Canal_Tecnologia_Livre-red?style=&logo=youtube&link=https://https://www.youtube.com/channel/UCb5f8g7z3tf1lSwCu5HZ8yw/)](https://www.youtube.com/channel/UCb5f8g7z3tf1lSwCu5HZ8yw)
 [![GitHub last commit](https://img.shields.io/badge/Twitter-SeuCanal-red?style=&logo=twitter&link=https://https://twitter.com/seuendereco/)](https://twitter.com/seuendereco)
 [![GitHub last commit](https://img.shields.io/badge/Linkedin-Charles_Santana-red?style=&logo=linkedin&link=https://br.linkedin.com/in/charlesalvessantana/)](https://br.linkedin.com/in/charlesalvessantana)
-
 <!--
 **CharlesSantana/CharlesSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
