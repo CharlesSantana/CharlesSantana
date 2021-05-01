@@ -1,4 +1,4 @@
-# Olá!, Eu sou Charles Santana! 👋 :D
+# Olá!, Eu sou Charles Santana!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/CharlesSantana)](https://github.com/CharlesSantana)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/charlesalvessantana/)](https://br.linkedin.com/in/charlesalvessantana)
