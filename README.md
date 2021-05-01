@@ -1,7 +1,7 @@
 ## Olá!, Eu sou Charles Santana!
 <!--Estou informando alguns botoes com dados da Faculdade curso e professor-->
 ![GitHub last commit](https://img.shields.io/badge/Faculdade-Facimp-blue?style=) ![GitHub last commit](https://img.shields.io/badge/Nucleo-Tecnologia-blue?style=)
-![GitHub last commit](https://img.shields.io/badge/Curso-Admin_de_Redes-red?style=) ![GitHub last commit](https://img.shields.io/badge/Professor-Paulo_Henrique_PH-red?style=)
+![GitHub last commit](https://img.shields.io/badge/Curso-Admin_de_Redes-red?style=) [![GitHub last commit](https://img.shields.io/badge/Professor-Paulo_Henrique_PH-red?style=&link=https://https://github.com/agenteph/)](https://github.com/agenteph)
 ### Sobre Mim
 Eu sou Adm de Redes{ Windows e Linux} Instrutor Tecnico e Estudante de Tecnologia 
 <!--Estou informando alguns botoes midias sociais-->
@@ -20,7 +20,7 @@ Eu sou Adm de Redes{ Windows e Linux} Instrutor Tecnico e Estudante de Tecnologi
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/CharlesSantana)](https://github.com/CharlesSantana)
 
 
-[![GitHub last commit](https://img.shields.io/badge/Faculdade-Facimp-blue?style=&link=https://https://github.com/CharlesSantana/)](https://github.com/CharlesSantana)
+[![GitHub last commit](https://img.shields.io/badge/Professor-Paulo_Henrique_PH-red?style=&link=https://https://github.com/agenteph/)](https://github.com/agenteph)
 
 <!--
 **CharlesSantana/CharlesSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
