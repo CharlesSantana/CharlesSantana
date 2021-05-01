@@ -9,9 +9,9 @@
 Eu sou Adm de Redes{ Windows e Linux} Instructor Tecnico e Estudante de Tecnologia 
 
 ![Status GitHub Charles Santana](https://github-readme-stats.vercel.app/api?username=charlessantana&show_icons=true&theme=radical)
-![Status GitHub Charles Santana](https://github-readme-stats.vercel.app/api?username=charlessantana&count_private=true&&show_icons=true&theme=radical)(https://github.com/CharlesSantana)
+[![Status GitHub Charles Santana](https://github-readme-stats.vercel.app/api?username=charlessantana&count_private=true&&show_icons=true&theme=radical)](https://github.com/CharlesSantana)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Status GitHub Charles Santana](https://github-readme-stats.vercel.app/api?username=charlessantana)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **CharlesSantana/CharlesSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
