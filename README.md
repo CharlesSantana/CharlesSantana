@@ -14,6 +14,8 @@ Eu sou Adm de Redes{ Windows e Linux} Instrutor Tecnico e Estudante de Tecnologi
 
 ![GitHub followers](https://img.shields.io/github/followers/charlessantana?style=social)
 
+![Repology - Repositories](https://img.shields.io/repology/repositories/charlessantana?style=plastic)
+
 <!--
 **CharlesSantana/CharlesSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
