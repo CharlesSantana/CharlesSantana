@@ -22,7 +22,7 @@ Eu sou Adm de Redes{ Windows e Linux} Instrutor Tecnico e Estudante de Tecnologi
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/CharlesSantana/CharlesSantana?style=plastic)
 
-https://img.shields.io/badge/<Faculdade>-<Facimp>-<blue>
+https://img.shields.io/badge/Faculdade-Facimp-blue
 
 ![GitHub last commit](https://img.shields.io/badge/<Faculdade>-<Facimp>-<blue>?style=plastic)
 
