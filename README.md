@@ -4,13 +4,15 @@
 ### Sobre Mim
 Eu sou Adm de Redes{ Windows e Linux} Instrutor Tecnico e Estudante de Tecnologia 
 
-[![Status GitHub Charles Santana](https://github-readme-stats.vercel.app/api?username=charlessantana&repo=&count_private=true&&show_icons=true&theme=radical)](https://github.com/CharlesSantana)
-
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/CharlesSantana)](https://github.com/CharlesSantana)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/charlesalvessantana/)](https://br.linkedin.com/in/charlesalvessantana)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/seuendereco)](https://twitter.com/seuendereco)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://https://www.youtube.com/channel/UCb5f8g7z3tf1lSwCu5HZ8yw)](https://www.youtube.com/channel/UCb5f8g7z3tf1lSwCu5HZ8yw)
+
+
+[![Status GitHub Charles Santana](https://github-readme-stats.vercel.app/api?username=charlessantana&repo=&count_private=true&&show_icons=true&theme=radical)](https://github.com/CharlesSantana)
+
+
 
 ![AUR license](https://img.shields.io/aur/license/android-studio?style=plastic)
 
