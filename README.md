@@ -10,6 +10,10 @@ Eu sou Adm de Redes{ Windows e Linux} Instrutor Tecnico e Estudante de Tecnologi
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/seuendereco)](https://twitter.com/seuendereco)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://https://www.youtube.com/channel/UCb5f8g7z3tf1lSwCu5HZ8yw)](https://www.youtube.com/channel/UCb5f8g7z3tf1lSwCu5HZ8yw)
 
+![AUR license](https://img.shields.io/aur/license/android-studio?style=plastic)
+
+![Mozilla Add-on](https://img.shields.io/amo/users/dustman)
+
 <!--
 **CharlesSantana/CharlesSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
