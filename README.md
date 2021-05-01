@@ -8,7 +8,7 @@
 ### Sobre Mim
 Eu sou Adm de Redes{ Windows e Linux} Instructor Tecnico e Estudante de Tecnologia 
 
-[![Status GitHub Charles Santana](https://github-readme-stats.vercel.app/api?username=charlessantana&count_private=true&&show_icons=true&theme=radical)](https://github.com/CharlesSantana)
+[![Status GitHub Charles Santana](https://github-readme-stats.vercel.app/api?username=charlessantana&repo=github-readme-stats&count_private=true&&show_icons=true&theme=radical)](https://github.com/CharlesSantana)
 
 
 <!--
