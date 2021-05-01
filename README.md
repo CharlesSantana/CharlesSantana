@@ -17,8 +17,7 @@ Eu sou Adm de Redes{ Windows e Linux} Instrutor Tecnico e Estudante de Tecnologi
 
 
 
-[![GitHub last commit](https://img.shields.io/badge/Professor-Paulo_Henrique_PH-red
-?style=flat-square&logo=appveyor&link=https://https://github.com/agenteph/)](https://github.com/agenteph)
+[![GitHub last commit](https://img.shields.io/badge/Professor-Paulo_Henrique_PH-red?&link=https://https://github.com/agenteph/)](https://github.com/agenteph)
 
 
 <!--
