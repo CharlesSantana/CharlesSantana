@@ -1,4 +1,6 @@
 # Olá!, Eu sou Charles Santana!
+<!--
+**CharlesSantana/CharlesSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![GitHub last commit](https://img.shields.io/badge/Faculdade-Facimp-blue?style=plastic) ![GitHub last commit](https://img.shields.io/badge/Nucleo-Tecnologia-blue?style=plastic)
 ![GitHub last commit](https://img.shields.io/badge/Curso-Admin_de_Redes-red?style=plastic) ![GitHub last commit](https://img.shields.io/badge/Professor-Paulo_Henrique_PH-red?style=plastic)
 ### Sobre Mim
@@ -11,6 +13,9 @@ Eu sou Adm de Redes{ Windows e Linux} Instrutor Tecnico e Estudante de Tecnologi
 
 
 [![Status GitHub Charles Santana](https://github-readme-stats.vercel.app/api?username=charlessantana&repo=&count_private=true&&show_icons=true&theme=radical)](https://github.com/CharlesSantana)
+
+![Website](https://img.shields.io/website?down_color=red&down_message=Servidor%20%20Off-Line&style=plastic&up_color=blue&up_message=Servidor%20On-Line&url=http%3A%2F%2Fwww.linuxitz.com.br)
+
 
 
 
