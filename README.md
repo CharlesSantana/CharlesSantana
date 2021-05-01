@@ -1,4 +1,6 @@
 # Olá!, Eu sou Charles Santana!
+![GitHub last commit](https://img.shields.io/badge/Faculdade-Facimp-blue?style=plastic) ![GitHub last commit](https://img.shields.io/badge/Nucleo-Tecnologia-blue?style=plastic)
+![GitHub last commit](https://img.shields.io/badge/Curso-Admin_de_Redes-red?style=plastic) ![GitHub last commit](https://img.shields.io/badge/Professor-Paulo_Henrique-PH-red?style=plastic)
 ### Sobre Mim
 Eu sou Adm de Redes{ Windows e Linux} Instrutor Tecnico e Estudante de Tecnologia 
 
