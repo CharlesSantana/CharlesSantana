@@ -18,7 +18,7 @@ Eu sou Adm de Redes{ Windows e Linux} Instrutor Tecnico e Estudante de Tecnologi
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/CharlesSantana)](https://github.com/CharlesSantana)
 
-[![GitHub last commit](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&Professor-Paulo_Henrique_PH-red?style=&link=https://https://github.com/agenteph/)](https://github.com/agenteph)
+[![GitHub last commit](https://img.shields.io/badge/?style=flat-square&logo=appveyor&Professor-Paulo_Henrique_PH-red?style=&link=https://https://github.com/agenteph/)](https://github.com/agenteph)
 
 <!--
 **CharlesSantana/CharlesSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
