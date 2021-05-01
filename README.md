@@ -24,7 +24,7 @@ Eu sou Adm de Redes{ Windows e Linux} Instrutor Tecnico e Estudante de Tecnologi
 
 https://img.shields.io/badge/Faculdade-Facimp-blue
 
-![GitHub last commit](https://img.shields.io/badge/<Faculdade>-<Facimp>-<blue>?style=plastic)
+![GitHub last commit](https://img.shields.io/badge/Faculdade-Facimp-blue?style=plastic) ![GitHub last commit](https://img.shields.io/badge/Nucleo-Tecnologia-blue?style=plastic)
 
 <!--
 **CharlesSantana/CharlesSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
