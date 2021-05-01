@@ -18,6 +18,8 @@ Eu sou Adm de Redes{ Windows e Linux} Instrutor Tecnico e Estudante de Tecnologi
 
 ![Website](https://img.shields.io/website?down_color=red&down_message=Servidor%20%20Off-Line&style=plastic&up_color=blue&up_message=Servidor%20On-Line&url=http%3A%2F%2Fwww.linuxitz.com.br)
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/CharlesSantana/CharlesSantana?style=plastic)
+
 <!--
 **CharlesSantana/CharlesSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
