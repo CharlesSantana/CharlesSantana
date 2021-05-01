@@ -19,8 +19,17 @@ Eu sou Adm de Redes{ Windows e Linux} Instrutor Tecnico e Estudante de Tecnologi
 
 
 
+[![GitHub last commit](https://img.shields.io/badge/YOUTUBE-Canal Tecnologia Livre-red?style=&logo=youtube&link=https://https://www.youtube.com/channel/UCb5f8g7z3tf1lSwCu5HZ8yw/)](https://www.youtube.com/channel/UCb5f8g7z3tf1lSwCu5HZ8yw)
 
-[![Github Badge](https://img.shields.io/badge/Professor-red?style=flat-square&logo=Github&logoColor=white-Professor-red?-&link=https://https://github.com/CharlesSantana)](https://github.com/CharlesSantana)
+
+
+[![GitHub last commit](https://img.shields.io/badge/Professor-Paulo_Henrique_PH-red?style=&logo=Github&link=https://https://github.com/agenteph/)](https://github.com/agenteph)
+
+
+
+[![GitHub last commit](https://img.shields.io/badge/Professor-Paulo_Henrique_PH-red?style=&logo=Github&link=https://https://github.com/agenteph/)](https://github.com/agenteph)
+
+
 
 [![GitHub last commit](https://img.shields.io/badge/Professor-Paulo_Henrique_PH-red?style=&logo=Github&link=https://https://github.com/agenteph/)](https://github.com/agenteph)
 
