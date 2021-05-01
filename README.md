@@ -6,7 +6,6 @@
 Eu sou Adm de Redes{ Windows e Linux} Instrutor Tecnico e Estudante de Tecnologia 
 <!--Estou informando alguns botoes midias sociais-->
 [![GitHub last commit](https://img.shields.io/badge/Youtube-Canal_Tecnologia_Livre-red?style=&logo=youtube&link=https://https://www.youtube.com/channel/UCb5f8g7z3tf1lSwCu5HZ8yw/)](https://www.youtube.com/channel/UCb5f8g7z3tf1lSwCu5HZ8yw)
-[![GitHub last commit](https://img.shields.io/badge/Twitter-SeuCanal-red?style=&logo=twitter&link=https://https://twitter.com/seuendereco/)](https://twitter.com/seuendereco)
 [![GitHub last commit](https://img.shields.io/badge/Linkedin-Charles_Santana-red?style=&logo=linkedin&link=https://br.linkedin.com/in/charlesalvessantana/)](https://br.linkedin.com/in/charlesalvessantana)
 [![GitHub last commit](https://img.shields.io/badge/GitHub-Chalres_Santana-red?style=&logo=Github&link=https://https://github.com/CharlesSantana/)](https://github.com/CharlesSantana)
 ![Website](https://img.shields.io/website?down_color=red&down_message=Servidor%20%20Off-Line&style=&up_color=blue&up_message=Servidor%20On-Line&url=http%3A%2F%2Fwww.linuxitz.com.br)
