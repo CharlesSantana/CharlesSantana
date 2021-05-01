@@ -12,8 +12,14 @@ Eu sou Adm de Redes{ Windows e Linux} Instrutor Tecnico e Estudante de Tecnologi
 <!--Estou informando alguns stats do meu git-->
 [![Status GitHub Charles Santana](https://github-readme-stats.vercel.app/api?username=charlessantana&repo=&count_private=true&&show_icons=true&theme=radical)](https://github.com/CharlesSantana)
 <!--Estou informando alguns botoes com dados site-->
-![Website](https://img.shields.io/website?down_color=red&down_message=Servidor%20%20Off-Line&style=plastic&up_color=blue&up_message=Servidor%20On-Line&url=http%3A%2F%2Fwww.linuxitz.com.br)
-![GitHub last commit](https://img.shields.io/github/last-commit/CharlesSantana/CharlesSantana?style=plastic)
+![Website](https://img.shields.io/website?down_color=red&down_message=Servidor%20%20Off-Line&style=&up_color=blue&up_message=Servidor%20On-Line&url=http%3A%2F%2Fwww.linuxitz.com.br)
+![GitHub last commit](https://img.shields.io/github/last-commit/CharlesSantana/CharlesSantana?style=)
+
+
+
+![GitHub last commit](https://img.shields.io/badge/Faculdade-Facimp-blue?style=)(https://github.com/CharlesSantana)
+
+
 
 <!--
 **CharlesSantana/CharlesSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
