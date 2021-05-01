@@ -10,23 +10,14 @@ Eu sou Adm de Redes{ Windows e Linux} Instrutor Tecnico e Estudante de Tecnologi
 [![GitHub last commit](https://img.shields.io/badge/Twitter-SeuCanal-red?style=&logo=twitter&link=https://https://twitter.com/seuendereco/)](https://twitter.com/seuendereco)
 [![GitHub last commit](https://img.shields.io/badge/Linkedin-Charles_Santana-red?style=&logo=linkedin&link=https://br.linkedin.com/in/charlesalvessantana/)](https://br.linkedin.com/in/charlesalvessantana)
 [![GitHub last commit](https://img.shields.io/badge/GitHub-Chalres_Santana-red?style=&logo=Github&link=https://https://github.com/CharlesSantana/)](https://github.com/CharlesSantana)
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/CharlesSantana)](https://github.com/CharlesSantana)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/charlesalvessantana/)](https://br.linkedin.com/in/charlesalvessantana)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/seuendereco)](https://twitter.com/seuendereco)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://https://www.youtube.com/channel/UCb5f8g7z3tf1lSwCu5HZ8yw)](https://www.youtube.com/channel/UCb5f8g7z3tf1lSwCu5HZ8yw)
 <!--Estou informando alguns stats do meu git-->
 [![Status GitHub Charles Santana](https://github-readme-stats.vercel.app/api?username=charlessantana&repo=&count_private=true&&show_icons=true&theme=radical)](https://github.com/CharlesSantana)
 <!--Estou informando alguns botoes com dados site-->
 ![Website](https://img.shields.io/website?down_color=red&down_message=Servidor%20%20Off-Line&style=&up_color=blue&up_message=Servidor%20On-Line&url=http%3A%2F%2Fwww.linuxitz.com.br)
 ![GitHub last commit](https://img.shields.io/github/last-commit/CharlesSantana/CharlesSantana?style=)
-
-
-
 [![GitHub last commit](https://img.shields.io/badge/Youtube-Canal_Tecnologia_Livre-red?style=&logo=youtube&link=https://https://www.youtube.com/channel/UCb5f8g7z3tf1lSwCu5HZ8yw/)](https://www.youtube.com/channel/UCb5f8g7z3tf1lSwCu5HZ8yw)
 [![GitHub last commit](https://img.shields.io/badge/Twitter-SeuCanal-red?style=&logo=twitter&link=https://https://twitter.com/seuendereco/)](https://twitter.com/seuendereco)
 [![GitHub last commit](https://img.shields.io/badge/Linkedin-Charles_Santana-red?style=&logo=linkedin&link=https://br.linkedin.com/in/charlesalvessantana/)](https://br.linkedin.com/in/charlesalvessantana)
-
 
 <!--
 **CharlesSantana/CharlesSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
