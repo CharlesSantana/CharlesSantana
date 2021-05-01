@@ -9,6 +9,7 @@ Eu sou Adm de Redes{ Windows e Linux} Instrutor Tecnico e Estudante de Tecnologi
 [![GitHub last commit](https://img.shields.io/badge/Youtube-Canal_Tecnologia_Livre-red?style=&logo=youtube&link=https://https://www.youtube.com/channel/UCb5f8g7z3tf1lSwCu5HZ8yw/)](https://www.youtube.com/channel/UCb5f8g7z3tf1lSwCu5HZ8yw)
 [![GitHub last commit](https://img.shields.io/badge/Twitter-SeuCanal-red?style=&logo=twitter&link=https://https://twitter.com/seuendereco/)](https://twitter.com/seuendereco)
 [![GitHub last commit](https://img.shields.io/badge/Linkedin-Charles_Santana-red?style=&logo=linkedin&link=https://br.linkedin.com/in/charlesalvessantana/)](https://br.linkedin.com/in/charlesalvessantana)
+[![GitHub last commit](https://img.shields.io/badge/GitHub-Chalres_Santana-red?style=&logo=Github&link=https://https://github.com/CharlesSantana/)](https://github.com/CharlesSantana)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/CharlesSantana)](https://github.com/CharlesSantana)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/charlesalvessantana/)](https://br.linkedin.com/in/charlesalvessantana)
