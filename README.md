@@ -12,7 +12,7 @@ Eu sou Adm de Redes{ Windows e Linux} Instrutor Tecnico e Estudante de Tecnologi
 
 ![AUR license](https://img.shields.io/aur/license/android-studio?style=plastic)
 
-![Mozilla Add-on](https://img.shields.io/amo/users/dustman)
+![GitHub followers](https://img.shields.io/github/followers/charlessantana?style=social)
 
 <!--
 **CharlesSantana/CharlesSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
