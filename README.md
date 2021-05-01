@@ -1,7 +1,5 @@
 ## Olá!, Eu sou Charles Santana!
 <!--Estou informando alguns botoes com dados da Faculdade curso e professor-->
-
-#### Sobre Mim
 Eu sou Adm de Redes{ Windows e Linux} Instrutor Tecnico e Estudante de Tecnologia 
 <!--Estou informando alguns botoes midias sociais-->
 ![GitHub last commit](https://img.shields.io/badge/Faculdade-Facimp-blue?style=) ![GitHub last commit](https://img.shields.io/badge/Nucleo-Tecnologia-blue?style=)
