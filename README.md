@@ -9,7 +9,7 @@
 Eu sou Adm de Redes{ Windows e Linux} Instructor Tecnico e Estudante de Tecnologia 
 
 [![Status GitHub Charles Santana](https://github-readme-stats.vercel.app/api?username=charlessantana&show_icons=true&theme=radical)](https://github.com/CharlesSantana)
-! [Estatísticas do GitHub do Anurag] (https://github-readme-stats.vercel.app/api ? Username = anuraghazra & count_private = true )
+[! [Estatísticas do GitHub do Anurag] (https://github-readme-stats.vercel.app/api ? Username = anuraghazra & count_private = true )
 
 
 <!--
